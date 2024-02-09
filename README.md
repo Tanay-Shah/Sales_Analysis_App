@@ -1,5 +1,4 @@
-# roxiler_Assingment
-
+# Sales Analysis App
 ## Technologies Used
 
 - **Frontend:**
